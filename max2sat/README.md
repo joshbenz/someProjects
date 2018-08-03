@@ -1,0 +1,1 @@
+My max2sat implementations. It uses a burteforce approach and also implements a Local Greedy search, WalkSat

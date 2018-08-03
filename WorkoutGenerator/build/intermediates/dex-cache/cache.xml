@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/serializer-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24247f3bb052ee068971393bdb83e04512bb1c3c">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/serializer-2.7.2_7da09d2148ec85fd924e08b898819c88fd9121b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/commons-codec-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/commons-codec-1.10_57909601ff2f0b829e0a0766ca08c0120c5d78f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/commons-lang3-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/commons-lang3-3.5_df0e1414b86a8983c79d8c1fdf69a1cc66c408f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/xalan-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d55d3f02a56ec4c25695fe67e1334ff8c2ecea23">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/xalan-2.7.2_d4453149e2fd7a67dcb86d0b35a17dca99adfef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/junit-4.12_42b52554a840393cc0f3d8d4d7b7929291656b1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_d88a005b70f9b5222e9126e929e53ea8f0ab4fa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/javax.servlet-api-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cd63d075497751784b2fa84be59432f4905bf7c">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/javax.servlet-api-3.1.0_672d4d6bbec67d70091774208b412fa454d9dd9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/cssparser-0.9.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5238960c5931a52759f222761610052a0cbb2615">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/cssparser-0.9.21_4c21678f1b04627dabb942d94a88cf59a84d8f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/commons-exec-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfb9facd0830a27b1b5f29f84593f0aeee7773b">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/commons-exec-1.3_caff9e7172e231dbde7221f185e572d07de4130d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/commons-logging-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/commons-logging-1.2_93c29be7a808039f0245b7b44c9c2ee8a5763a50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/websocket-common-9.2.20.v20161216.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f31a0535a1c71fe34dfafd2a6d3b2f41b3d8a110">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/websocket-common-9.2.20.v20161216_df787ab88d708dcd5e847a4b73dbbdb25e4099c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/websocket-api-9.2.20.v20161216.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="261ca2003f28259a9b83556af700531665ffefb4">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/websocket-api-9.2.20.v20161216_58b3680ea923cbace7351cb3473dd9d91ecc6082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/websocket-client-9.2.20.v20161216.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b2174ca8967e11e58e33af7e92a1d4214ca66a">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/websocket-client-9.2.20.v20161216_e14a1fc8d6d1f0a5cc2f70dad5c63ffa594ed11c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/commons-io-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/commons-io-2.5_40e3da672dec0295dd135ebcfaa8a912e2a60d5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_d85bcebb6541b55027e42d71e3ecd43baabae808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_fd2ad405f6019f55b64ca0ca2bbebe6f1f52f9ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2_d3dbb74a05402feb46bb32a2757893b64941543d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/httpcore-4.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/httpcore-4.4.4_7b6e596a693fb18268835859ec1036b65621d152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_bcfe6e9e2c285def44bd4d979d8b320d948202fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/htmlunit-driver-2.24.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ece82c09dc43ae868f94f4bed7cf1e81233e493">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/htmlunit-driver-2.24_6c43028aa99a024b02e718f981c0dcfaf2cd10b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_665700e70f6e6d8124d6b07979a3c78dbd6965d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_86c2d013120353ee8352b0c8c3b9ba79501a4764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/gson-2.8.0_22841212f7cf8828dba0982605b21794aed9e849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_4d0c6b45733c4e6371bfbd7b562052e65ec33c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_f83a0bf8767a878465a7b8aa09ceda4993b3cec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_6c9d1b9248a7a716cfda08c6a8f30411edb56eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_813234b948a16d23c395c338831f4162cdf450d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/htmlunit-2.24.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e69abf8a4b5d13a9fd5c353c1557ef59f1570a8e">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/htmlunit-2.24_b4dcfbafdcb48c9940be6e6ad19f523c4ea53f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/htmlunit-core-js-2.23.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ade18a1568c4da458ca197aaa6d3fe213c69928">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/htmlunit-core-js-2.23_2bb83c3944f21c94d260e845db04673a7f768d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/hamcrest-library-1.3_0f136ba5f7eaaa1f3a3a3127dbc945d9607d5943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/sac-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cdb2dcb4e22b83d6b32b93095f644c3462739e82">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/sac-1.3_25751e5ea68e8fa0486662a1c40841f641b21cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/httpmime-4.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22b4c53dd9b6761024258de8f9240c3dce6ea368">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/httpmime-4.5.2_5054e195cb16a05d304ec5aec75fc9f6db13f94c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/neko-htmlunit-2.24.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db21c784490b068c91eded812a68c199362872e9">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/neko-htmlunit-2.24_e4a98f81c3012417f848ee076ecc95fe95cc8ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/jna-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/jna-4.1.0_c2090ab2b8c1b3f8cb731d1d6993f30d57159292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/requiem/AndroidStudioProjects/FitnessApp/app/libs/cglib-nodep-3.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42c972dee25a436b32c6027e848287ff47ed6750">
+        <dex dex="/home/requiem/AndroidStudioProjects/FitnessApp/app/build/intermediates/pre-dexed/debug/cglib-nodep-3.2.4_b32e0af7c9da12cb081862994e0002fd1e50e96c.jar" />
+    </item>
+
+</items>
