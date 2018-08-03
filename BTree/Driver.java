@@ -7,7 +7,9 @@ public class Driver {
 			binaryTree.insert(test[i]);
 		}
 
-		binaryTree.printTree(binaryTree.root);
+		binaryTree.printSortedTree();
 		System.out.println("Search for 30::::" + binaryTree.search(30));
+		System.out.println("Max value is " + binaryTree.max());
+		System.out.println("Height of tree: " + binaryTree.height());
 	}
 }

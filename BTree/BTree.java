@@ -1,8 +1,8 @@
 public class BTree {
-	public Tree root;
+	private Tree root;
 
 	public BTree() {
-		root = new Tree();
+		root = null;
 	}
 
 	/**
@@ -30,7 +30,7 @@ public class BTree {
 		root = insert(root, data);
 	}
 
-	public Tree search(Tree node, int x) {
+	private Tree search(Tree node, int x) {
 		if(node == null) 		return null;
 		if(node.data == x) 		return node;
 
@@ -45,11 +45,49 @@ public class BTree {
 		return search(root, x).data;
 	}
 
-	public void printTree(Tree tree) {
+	public int max() {
+		return max(root).data;
+	}
+
+	private Tree max(Tree tree) {
+		if(tree.right == null) {
+			return tree;
+		} else {
+			return max(tree.right);
+		}
+	}
+
+
+	public int height() {
+		return height(root);
+	}
+
+	private int height(Tree tree) {
+		if(tree == null) { 
+			return 0;
+		} else {
+			int leftHeight = height(tree.left);
+			int rightHeight = height(tree.right);
+
+			if(leftHeight > rightHeight) {
+				return leftHeight + 1;
+			} else {
+				return rightHeight + 1;
+			}
+		}
+	}
+
+	public void printSortedTree() {
+		if(root != null)
+			printSortedTree(root);
+	}
+
+	private void printSortedTree(Tree tree) {
 		if(tree != null) {
-			printTree(tree.left);
+			printSortedTree(tree.left);
 			System.out.println(tree.data);
-			printTree(tree.right);
+			printSortedTree(tree.right);
+			
 		}
 	}
 
