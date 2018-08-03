@@ -21,5 +21,8 @@ Just some projects done outside of school for fun.
 
   - Console memory game. Project specification came from COC even though I didn't go there. http://www.canyons.edu/Departments/CMPSCI/Documents/ferguson/cs182/cs182program4Indy.html
   - I used it as a Java exercise using linked lists, graphs, stacks, and interfaces.
+ 
+### BTree
+- Reimplemented a binary tree so I could recall and help tutor my friends. And the AVL tree from my coursework is missing.
 
 
