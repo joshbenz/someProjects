@@ -57,6 +57,14 @@ public class BTree {
 		}
 	}
 
+	private int sum(Tree tree) {
+		if(tree == null) return 0;
+		return(tree.data + sum(tree.left) + sum(tree.right));
+	}
+
+	public int sum() {
+		return sum(root);
+	}
 
 	public int height() {
 		return height(root);
@@ -77,6 +85,19 @@ public class BTree {
 		}
 	}
 
+	private int numNodes(Tree tree) {
+		int count = 1;
+		if(tree == null) return 0;
+		if(tree.left != null) count += numNodes(tree.left);
+		if(tree.right != null) count += numNodes(tree.right);
+		
+		return count;
+	}
+
+	public double average() {
+		return (double) sum() / (double) numNodes(root);
+	}
+
 	public void printSortedTree() {
 		if(root != null)
 			printSortedTree(root);
@@ -90,6 +111,33 @@ public class BTree {
 			
 		}
 	}
+
+	private class Tree {
+		int data;
+		Tree parent, right, left;
+
+		Tree() {
+			data = -1;
+			parent = null;
+			right = null;
+			left = null;
+		}
+	
+		Tree(int data, Tree p) { //set data and link into parent
+			parent = p;
+			this.data = data;
+			right = null;
+			left = null;
+		}
+	
+		Tree(int data) {
+			this.data = data;
+			right = null;
+			left = null;
+			parent = null;
+		}
+	}
+
 
 }
 

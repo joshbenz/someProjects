@@ -11,5 +11,7 @@ public class Driver {
 		System.out.println("Search for 30::::" + binaryTree.search(30));
 		System.out.println("Max value is " + binaryTree.max());
 		System.out.println("Height of tree: " + binaryTree.height());
+		System.out.println("sum of tree values: " + binaryTree.sum());
+		System.out.println("avg: " + binaryTree.average());
 	}
 }
